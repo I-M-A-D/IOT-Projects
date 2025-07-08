@@ -1,0 +1,68 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Arduino_project"
+		},
+		{
+			"name": "demo_test",
+			"path": "../../demo_test"
+		},
+		{
+			"name": "demoled",
+			"path": "../../demoled"
+		},
+		{
+			"name": "button",
+			"path": "../../button"
+		},
+		{
+			"name": "two_button",
+			"path": "../../two_button"
+		},
+		{
+			"name": "single_button ON OFF",
+			"path": "../../single_button ON OFF"
+		},
+		{
+			"name": "two button print table logic",
+			"path": "../../two button print table logic"
+		},
+		{
+			"name": "ADC Analog to Digital Conversion",
+			"path": "../../ADC Analog to Digital Conversion"
+		},
+		{
+			"name": "thermal input",
+			"path": "../../thermal input"
+		},
+		{
+			"name": "multiple_sensor",
+			"path": "../../multiple_sensor"
+		},
+		{
+			"name": "ultrasonic sensor",
+			"path": "../../ultrasonic sensor"
+		},
+		{
+			"name": "i2c lcd",
+			"path": "../../i2c lcd"
+		},
+		{
+			"name": "i2cprint",
+			"path": "../../i2cprint"
+		},
+		{
+			"name": "Bluetooth_ascii",
+			"path": "../../Bluetooth_ascii"
+		},
+		{
+			"name": "Bluetooth_char",
+			"path": ".."
+		},
+		{
+			"name": "single button bluetooh on_off",
+			"path": "../../single button bluetooh on_off"
+		}
+	],
+	"settings": {}
+}
