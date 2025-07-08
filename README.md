@@ -1,7 +1,7 @@
 # IOT-Projects
 
 Projects on a number of different IOT Development and Embeded Systems like Home Automation Systems, Automatic Car and various other Sensors and Actuators with ARDUINO, RasberryPi and ESP32, NodeMCU using PlatformIO.
-These projects have been made under the education and training of work in the IOT Internet of Things domain containing my work :
+These projects have been made under the education and training work in the IOT Internet of Things domain containing my work :
 
 Designed and implemented home automation systems, integrating Arduino, Raspberry Pi, and ESP32 for smart control and monitoring.
 
